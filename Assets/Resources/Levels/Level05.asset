@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbcf7f44824050d449d9f357f7d99072, type: 3}
+  m_Name: Level05
+  m_EditorClassIdentifier: 
+  ID: 1
+  cards:
+  - {fileID: 11400000, guid: cc6f892bc26527746b87a1e000cefeac, type: 2}
+  - {fileID: 11400000, guid: 1194fb879a8943f4a9367c85c3e1e383, type: 2}
+  - {fileID: 11400000, guid: bf104679a6c2f0b4cac7d78fc7524480, type: 2}
+  - {fileID: 11400000, guid: 04389903ac544394cb9b7d33d7eae8e8, type: 2}
+  - {fileID: 11400000, guid: 8f8d5400655433142afbbe7756b21d10, type: 2}
+  - {fileID: 11400000, guid: 949e1640bd8b2a448b63f3c067af8dcd, type: 2}
+  - {fileID: 11400000, guid: dfbdfe640ba936045ab0371e7b399de0, type: 2}
+  - {fileID: 11400000, guid: ff388dd2b890ad542bb26d160e9efdbe, type: 2}
+  - {fileID: 11400000, guid: 0491f20c302904d4db552c2d6e456c6f, type: 2}
+  - {fileID: 11400000, guid: 11a24ed6de8861545917ebeab9251979, type: 2}
+  cardScale: 1
+  gridStartLocation: {x: -1.5, y: 1.5}

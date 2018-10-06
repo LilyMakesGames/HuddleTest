@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbcf7f44824050d449d9f357f7d99072, type: 3}
+  m_Name: Level01
+  m_EditorClassIdentifier: 
+  ID: 0
+  cards:
+  - {fileID: 11400000, guid: cc6f892bc26527746b87a1e000cefeac, type: 2}
+  - {fileID: 11400000, guid: 1194fb879a8943f4a9367c85c3e1e383, type: 2}
+  cardScale: 1
+  gridStartLocation: {x: -0.5, y: 0.5}
